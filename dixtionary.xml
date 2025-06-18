@@ -1,0 +1,74 @@
+<bdd>
+  <entry>
+    <lemma n="orth">shqip</lemma>
+    <lemma n="phon">ʃcip</lemma>
+    <form>
+      <pos>noun</pos>
+    </form>
+    <def>Language spoken in Albania.</def>
+    <def_en>Albanian language.</def_en>
+    <def_fr>Langue albanaise.</def_fr>
+    <def_sq>Gjuha shqipe.</def_sq>
+    <example>Unë flas shqip shumë mirë.</example>
+    <origin>From Latin "scypi" (disputed)</origin>
+    <synonyms>
+      <synonym>gjuha shqipe</synonym>
+    </synonyms>
+  </entry>
+
+  <entry>
+    <lemma n="orth">bukë</lemma>
+    <lemma n="phon">bukə</lemma>
+    <form>
+      <pos>noun</pos>
+    </form>
+    <def>A basic food made from flour and water.</def>
+    <def_en>Bread.</def_en>
+    <def_fr>Pain.</def_fr>
+    <def_sq>Bukë.</def_sq>
+    <example>Ajo po ha bukë me djathë.</example>
+    <origin>Proto-Indo-European *bʰeh₂g (to bake)</origin>
+    <synonyms>
+      <synonym>buka</synonym>
+    </synonyms>
+    <antonyms>
+      <antonym>urri</antonym>
+    </antonyms>
+  </entry>
+
+  <entry>
+    <lemma n="orth">vrapoj</lemma>
+    <lemma n="phon">vɾapɔj</lemma>
+    <form>
+      <pos>verb</pos>
+      <pos>intransitive</pos>
+    </form>
+    <def>To run fast on foot.</def>
+    <def_en>To run.</def_en>
+    <def_fr>Courir.</def_fr>
+    <def_sq>Me vrapuar.</def_sq>
+    <example>Ai vrapon çdo mëngjes.</example>
+    <origin>From Turkish "varap" or Latin "rapere"</origin>
+  </entry>
+
+  <entry>
+    <lemma n="orth">i bukur</lemma>
+    <lemma n="phon">i bukur</lemma>
+    <form>
+      <pos>adjective</pos>
+    </form>
+    <def>Pleasing to the senses or mind.</def>
+    <def_en>Beautiful.</def_en>
+    <def_fr>Beau / Belle.</def_fr>
+    <def_sq>I bukur.</def_sq>
+    <example>Shqipëria është një vend i bukur.</example>
+    <origin>Unknown origin</origin>
+    <synonyms>
+      <synonym>i hijshëm</synonym>
+      <synonym>i këndshëm</synonym>
+    </synonyms>
+    <antonyms>
+      <antonym>i shëmtuar</antonym>
+    </antonyms>
+  </entry>
+</bdd>
